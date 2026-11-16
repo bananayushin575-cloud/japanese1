@@ -1,0 +1,6 @@
+{
+  "name": "現代の国語｜テスト対策PDFスタジオ",
+  "description": "三省堂『現代の国語』国谷裕子「ポスト真実時代のジャーナリズム」の定期テスト予想問題（全30問）・解答用紙・要点まとめをA4 PDFに出力し、Web演習もできる学習スタジオ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
